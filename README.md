@@ -29,7 +29,7 @@
 ### Data Visualization
 
 <div align="center">
-  <img src="https://www.svgrepo.com/show/354427/tableau.svg" height="80" alt="Tableau Logo" title="Tableau" />
+  <img src="https://www.svgrepo.com/show/354427/tableau.svg" height="100" alt="Tableau Logo" title="Tableau" />
   <img width="12" />
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="50" alt="Power BI Logo" title="Power BI" />
   <img width="12" />
@@ -58,7 +58,7 @@
 ### Big Data Technologies
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original-wordmark.svg" height="80" alt="Apache Airflow Logo" title="Apache Airflow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original-wordmark.svg" height="100" alt="Apache Airflow Logo" title="Apache Airflow" />
   <img width="12" />
 </div>
 

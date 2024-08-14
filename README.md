@@ -13,7 +13,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python Logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" height="50" alt="SQL Logo" />
+  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="50" alt="SQL Logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++ Logo" />
   <img width="12" />
@@ -29,7 +29,7 @@
 ### Data Visualization
 
 <div align="center">
-  <img src="https://www.svgrepo.com/show/354427/tableau.svg" height="50" alt="Tableau Logo" />
+  <img src="https://www.svgrepo.com/show/354427/tableau.svg" height="60" alt="Tableau Logo" />
   <img width="12" />
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="50" alt="Power BI Logo" />
   <img width="12" />
@@ -58,7 +58,7 @@
 ### Big Data Technologies
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original-wordmark.svg" height="50" alt="Apache Airflow Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original-wordmark.svg" height="60" alt="Apache Airflow Logo" />
 </div>
 
 ### Other Technical Skills

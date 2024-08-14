@@ -13,7 +13,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python Logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="50" alt="SQL Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" height="50" alt="SQL Logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++ Logo" />
   <img width="12" />
@@ -29,11 +29,11 @@
 ### Data Visualization
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="50" alt="Tableau Logo" />
+  <img src="https://www.svgrepo.com/show/354427/tableau.svg" height="50" alt="Tableau Logo" />
   <img width="12" />
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="50" alt="Power BI Logo" />
   <img width="12" />
-  <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" height="50" alt="Excel Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" height="50" alt="Excel Logo" />
 </div>
 
 ### Cloud Platforms
@@ -60,6 +60,9 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original-wordmark.svg" height="50" alt="Apache Airflow Logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg" height="50" alt="Apache Spark Logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="50" alt="Hadoop Logo" />
 </div>
 
 ### Other Technical Skills

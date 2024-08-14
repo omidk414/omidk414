@@ -13,7 +13,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python Logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="50" alt="SQL Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="50" alt="SQL Logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++ Logo" />
   <img width="12" />
@@ -58,13 +58,29 @@
 ### Big Data Technologies
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airflow/airflow-original.svg" height="50" alt="Apache Airflow Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original-wordmark.svg" height="50" alt="Apache Airflow Logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg" height="50" alt="Apache Spark Logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="50" alt="Hadoop Logo" />
+</div>
+
+### Other Technical Skills
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker Logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git Logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="Arduino Logo" />
 </div>
 
 ## 🎮 Fun Section
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=My+Website&logo=website&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
+  <a href="https://omidk414.github.io/Omid-Khan-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=My+Website&logo=website&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
+  </a>
 </div>
 
 <br clear="both">

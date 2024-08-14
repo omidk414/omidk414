@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="50" alt="Power BI Logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" height="50" alt="Excel Logo" />
+  <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" height="50" alt="Excel Logo" />
 </div>
 
 ### Cloud Platforms
@@ -60,9 +60,6 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original-wordmark.svg" height="50" alt="Apache Airflow Logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg" height="50" alt="Apache Spark Logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="50" alt="Hadoop Logo" />
 </div>
 
 ### Other Technical Skills

@@ -29,7 +29,7 @@
 ### Data Visualization
 
 <div align="center">
-  <img src="https://www.svgrepo.com/show/354427/tableau.svg" height="100" alt="Tableau Logo" />
+  <img src="https://www.svgrepo.com/show/354427/tableau.svg" height="80" alt="Tableau Logo" />
   <img width="12" />
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="50" alt="Power BI Logo" />
   <img width="12" />
@@ -58,7 +58,9 @@
 ### Big Data Technologies
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original-wordmark.svg" height="100" alt="Apache Airflow Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original-wordmark.svg" height="80" alt="Apache Airflow Logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg" height="80" alt="Apache Spark Logo" />
 </div>
 
 ### Other Technical Skills
@@ -71,7 +73,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="Arduino Logo" />
 </div>
 
-## 🎮 Fun Section
+## 🌐 Portfolio Website
 
 <div align="center">
   <a href="https://omidk414.github.io/Omid-Khan-Portfolio/" target="_blank">
@@ -80,5 +82,3 @@
 </div>
 
 <br clear="both">
-
-<img src="https://github.com/your-username/your-repository/blob/main/path-to-your-animation.gif" alt="Custom Animation" />

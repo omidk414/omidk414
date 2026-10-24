@@ -343,25 +343,6 @@ Arduino · Python · Flask · Twilio · pySerial
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omidk414&bg_color=0d1117&color=2dd4bf&line=0d9488&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
-
-</div>
-
----
-
-## 🎓 Education
-
-**University of California, Berkeley**  
-Master of Information and Data Science (MIDS)
-
-**California State University, East Bay**  
-Bachelor of Science in Computer Science
-
----
 
 ## 🌐 Connect With Me
 

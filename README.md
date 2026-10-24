@@ -362,7 +362,6 @@ Arduino · Python · Flask · Twilio · pySerial
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=omidk414&label=Profile%20Views&color=0d9488&style=flat-square" alt="Profile Views"/>
 
 <br/><br/>
 
